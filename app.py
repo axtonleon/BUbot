@@ -39,9 +39,8 @@ st.markdown("""
 # Create a title for the app
 st.title("Bubot - Your Personal Chatbot")
 
-# Initialize session state for conversation history
-if "conversation" not in st.session_state:
-    st.session_state.conversation = []
+# Create a title for the app
+st.title("Bubot - Your Personal Chatbot")
 
 # Create a text input for the user's query with a placeholder
 query = st.text_input("Enter your query here", placeholder="Type your question here...")
@@ -52,20 +51,12 @@ if st.button("Ask Bubot"):
         # Load the documents and create the index
         loader = DirectoryLoader(".", glob="*.txt")
         index = VectorstoreIndexCreator().from_loaders([loader])
-        # Assuming st.session_state.conversation is a list of tuples where each tuple is (sender, message)
-        conversation_history = "\n".join([f"{sender}: {message}" for sender, message in st.session_state.conversation])
-
-        # Create a prompt that includes the conversation history
-        prompt = f"{conversation_history}\nUser: {query}"
+        
         # Query the index and get the answer
-        answer = index.query(prompt, llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7))
+        answer = index.query(query, llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7))
         
-        # Add the user's query and the bot's answer to the conversation history
-        st.session_state.conversation.append(("User", query))
-        st.session_state.conversation.append(("Bubot", answer))
-        
-        # Display the conversation history
-        for sender, message in st.session_state.conversation:
-            st.markdown(f"**{sender}:** {message}")
+        # Display the answer with a nice styling
+        st.markdown(f"## Answer:")
+        st.markdown(f"{answer}")
     else:
         st.warning("Please enter a query.")
