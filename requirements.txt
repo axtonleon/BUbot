@@ -7,3 +7,4 @@ chromadb==0.4.24
 pysqlite-binary==0.5.1.3380300 
 tiktoken==0.6.0 
 langchain-openai==0.0.8 
+chromadb==0.4.4 
