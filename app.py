@@ -53,9 +53,9 @@ def bubot():
    
     loader = DirectoryLoader("data/")
     if PERSIST:
-        index = VectorstoreIndexCreator(vectorstore_cls=Chroma, vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])
+        index = VectorstoreIndexCreator().from_loaders([loader])
     else:
-        index = VectorstoreIndexCreator(vectorstore_cls=Chroma).from_loaders([loader])
+        index = VectorstoreIndexCreator().from_loaders([loader])
 
     chain = ConversationalRetrievalChain.from_llm(
         llm=ChatOpenAI(model="gpt-3.5-turbo"),
