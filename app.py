@@ -47,7 +47,7 @@ if st.button("Ask Bubot"):
         index = VectorstoreIndexCreator().from_loaders([loader])
         
         # Query the index and get the answer
-        answer = index.query(query, llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7))
+        answer = index.query(query, llm=ChatOpenAI(model_name="gpt-3.5-turbo"))
         
         # Display the answer with a nice styling
         st.markdown(f"## Answer:")
