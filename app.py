@@ -8,8 +8,6 @@ from langchain_community.chat_models import ChatOpenAI
 
 # Initialize your chatbot components here
 os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
-
-# Custom CSS for styling
 st.markdown("""
 <style>
     .reportview-container {
@@ -30,11 +28,28 @@ st.markdown("""
     .stButton > button:hover {
         background-color: #808B96;
     }
+    .conversation-box {
+        border: 1px solid #6B7280;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 20px;
+        background-color: #f0f2f6;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 # Create a title for the app
 st.title("Bubot - Your Personal Chatbot")
+
+# Initialize session state for conversation history
+if "conversation" not in st.session_state:
+    st.session_state.conversation = []
+
+# Display the conversation history in a box above the query input
+st.markdown('<div class="conversation-box">', unsafe_allow_html=True)
+for sender, message in st.session_state.conversation:
+    st.markdown(f"**{sender}:** {message}")
+st.markdown('</div>', unsafe_allow_html=True)
 
 # Create a text input for the user's query with a placeholder
 query = st.text_input("Enter your query here", placeholder="Type your question here...")
@@ -46,11 +61,23 @@ if st.button("Ask Bubot"):
         loader = DirectoryLoader(".", glob="*.txt")
         index = VectorstoreIndexCreator().from_loaders([loader])
         
-        # Query the index and get the answer
-        answer = index.query(query, llm=ChatOpenAI(model_name="gpt-3.5-turbo"))
+        # Assuming st.session_state.conversation is a list of tuples where each tuple is (sender, message)
+        conversation_history = "\n".join([f"{sender}: {message}" for sender, message in st.session_state.conversation])
         
-        # Display the answer with a nice styling
-        st.markdown(f"## Answer:")
-        st.markdown(f"{answer}")
+        # Create a prompt that includes the conversation history
+        prompt = f"{conversation_history}\nUser: {query}"
+        
+        # Query the index and get the answer, including the conversation history in the prompt
+        answer = index.query(prompt, llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7))
+        
+        # Add the user's query and the bot's answer to the conversation history
+        st.session_state.conversation.append(("User", query))
+        st.session_state.conversation.append(("Bubot", answer))
+        
+        # Display the conversation history again to update the UI
+        st.markdown('<div class="conversation-box">', unsafe_allow_html=True)
+        for sender, message in st.session_state.conversation:
+            st.markdown(f"**{sender}:** {message}")
+        st.markdown('</div>', unsafe_allow_html=True)
     else:
         st.warning("Please enter a query.")
