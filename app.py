@@ -25,6 +25,10 @@ os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
 
+# Initialize session state
+if "query" not in st.session_state:
+    st.session_state.query = ""
+
 # Streamlit app
 def bubot():
     st.set_page_config(page_title="BuBot", page_icon=":robot_face:")
@@ -50,7 +54,9 @@ def bubot():
     </style>
     """
     st.markdown(css, unsafe_allow_html=True)
+
     st.title("🤖 BuBot - Your AI Assistant")
+
     if PERSIST and os.path.exists("persist"):
         print("Reusing index...")
         vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
@@ -62,8 +68,6 @@ def bubot():
         else:
             index = VectorstoreIndexCreator(vectorstore_cls=Chroma).from_loaders([loader])
 
-    
-
     chain = ConversationalRetrievalChain.from_llm(
         llm=ChatOpenAI(model="gpt-3.5-turbo"),
         retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
@@ -71,12 +75,10 @@ def bubot():
 
     chat_history = []
 
-    if "query" not in st.session_state:
-        st.session_state.query = ""
+    query = st.text_input("Ask BuBot a question:", st.session_state.query, key="query")
+    send_button = st.button("Send")
 
-    with st.container():
-        query = st.text_input("Ask BuBot a question:", st.session_state.query, key="query")
-
+    if send_button:
         if query:
             result = chain({"question": query, "chat_history": chat_history})
             chat_history.append((query, result["answer"]))
@@ -91,4 +93,3 @@ def bubot():
 
 if __name__ == "__main__":
     bubot()
-
