@@ -5,6 +5,7 @@ import pysqlite3
 import sys
 sys.modules['sqlite3'] = sys.modules["pysqlite3"]
 import chromadb
+import chromadb.config
 from langchain_openai import OpenAIEmbeddings
 import os
 import openai
