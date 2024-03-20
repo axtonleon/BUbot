@@ -1,0 +1,1643 @@
+
+Q: Hi
+A: Hi there, how may I help you?
+
+Q: How are you
+A: Very well, thank you
+
+Q: Good morning 
+A: Hi there, how may I help you?
+
+Q: Good afternoon 
+A: Hi there, how may I help you?
+
+Q: Good evening
+A: Hi there, how may I help you?
+
+Q: Warm welcome 
+A: Hi there, how may I help you?
+
+Q: Thank you 
+A: You're welcome
+
+Q: How do you do 
+A: How do you do, how may I help you today?
+
+Q: Nice to meet you
+A: Nice to meet you too, how may I help you today?
+
+Q: All the best
+A: And you too, cheers!
+
+Q: Pleased to meet you
+A: And you too, cheers!
+
+Q: Hey 
+A: Hi there, how may I help you?
+
+Q: Best wishes
+A: And you too, cheers!
+
+Q: Good wishes
+A: And you too, cheers!
+
+Q: What's happening 
+A: Hi there, how may I help you?
+
+Q: Welcome
+A: And you too, cheers!
+
+Q: How goes it
+A: Hi there, how may I help you?
+
+Q: Regard
+A: And you too, cheers!
+
+Q: Greetings
+A: Hi there, how may I help you?
+
+Q: Is anyone there?
+A: Hi there, how may I help you?
+
+Q: Hello
+A: Hi there, how may I help you?
+
+Q: Good day
+A: Hi there, how may I help you?
+
+Q: Welcome back
+A: And you too, cheers!
+
+Q: Whats up
+A: Hi there, how may I help you?
+
+Q: how are ya
+A: Very well, thank you
+
+Q: heyy
+A: Hi there, how may I help you?
+
+Q: whatsup
+A: Hi there, how may I help you?
+
+Q: Have a great rest of your day
+A: And you too, cheers!
+
+Q: It was a pleasure seeing you
+A: And you too, cheers!
+
+Q: cya
+A: And you too, cheers!
+
+Q: see you
+A: And you too, cheers!
+
+Q: bye bye
+A: And you too, cheers!
+
+Q: See you later
+A: And you too, cheers!
+
+Q: Goodbye
+A: And you too, cheers!
+
+Q: I am Leaving
+A: Okay, goodbye
+
+Q: Bye
+A: And you too, cheers!
+
+Q: Have a Good day
+A: And you too, cheers!
+
+Q: talk to you later
+A: And you too, cheers!
+
+Q: tyyl
+A: And you too, cheers!
+
+Q: i got to go
+A: Okay, goodbye
+
+Q: gtg
+A: Okay, goodbye
+
+Q: Bye
+A: And you too, cheers!
+
+Q: See you soon
+A: And you too, cheers!
+
+Q: Farewell
+A: And you too, cheers!
+
+Q: Taking off
+A: Okay, goodbye
+
+Q: Off going 
+A: Okay, goodbye
+
+Q: Retirement
+A: Okay, goodbye
+
+Q: Have a good time
+A: And you too, cheers!
+
+Q: Enjoy
+A: And you too, cheers!
+
+Q: So long
+A: And you too, cheers!
+
+Q: Leaving 
+A: Okay, goodbye
+
+Q: Have fun
+A: And you too, cheers!
+
+Q: Gotta go
+A: Okay, goodbye
+
+Q: Parting
+A: Okay, goodbye
+
+Q: Keep in touch
+A: And you too, cheers!
+
+Q: what is the name of your developers
+A: Udochukwu Ikenna Nzenwa
+
+Q: what is the name of your creators
+A: Udochukwu Ikenna Nzenwa
+
+Q: what is the name of the developers
+A: Udochukwu Ikenna Nzenwa
+
+Q: what is the name of the creators
+A: Udochukwu Ikenna Nzenwa
+
+Q: who created you
+A: Udochukwu Ikenna Nzenwa
+
+Q: your developers
+A: Udochukwu Ikenna Nzenwa
+
+Q: what is your father's name
+A: Udochukwu Ikenna Nzenwa
+
+Q: your creators
+A: Udochukwu Ikenna Nzenwa
+
+Q: who are your developers
+A: Udochukwu Ikenna Nzenwa
+
+Q: developers
+A: Udochukwu Ikenna Nzenwa
+
+Q: you are made by
+A: Udochukwu Ikenna Nzenwa
+
+Q: you are made by whom
+A: Udochukwu Ikenna Nzenwa
+
+Q: who created you
+A: Udochukwu Ikenna Nzenwa
+
+Q: Composer
+A: Udochukwu Ikenna Nzenwa
+
+Q: Mastermind 
+A: Udochukwu Ikenna Nzenwa
+
+Q: Deviser
+A: Udochukwu Ikenna Nzenwa
+
+Q: Architect
+A: Udochukwu Ikenna Nzenwa
+
+Q: who create you
+A: Udochukwu Ikenna Nzenwa
+
+Q: parents
+A: Udochukwu Ikenna Nzenwa
+
+Q: Innovators
+A: Udochukwu Ikenna Nzenwa
+
+Q: Who innovates
+A: Udochukwu Ikenna Nzenwa
+
+Q: Designer
+A: Udochukwu Ikenna Nzenwa
+
+Q: creators
+A: Udochukwu Ikenna Nzenwa
+
+Q: Who discover you
+A: Udochukwu Ikenna Nzenwa
+
+Q: discovered
+A: Udochukwu Ikenna Nzenwa
+
+Q: who made you
+A: Udochukwu Ikenna Nzenwa
+
+Q: who designed you
+A: Udochukwu Ikenna Nzenwa
+
+Q: Date of establishment of college
+A: 1992
+
+Q: name
+A: Bournemouth University
+
+Q: Introduction
+A: Hi there, how may I help you?
+
+Q: Information
+A: I'm not sure I understand. Please clarify
+
+Q: Information about you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: Details
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Information details
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: How can I collect your information 
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Can you help me to know u?
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: introduce yourself
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: Tell me about yourself 
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: How can I know you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: What is your information 
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: May I know you? 
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: May I know you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: why don't you introduce yourself
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: your name
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: do you have a name
+A: Yes, I'm BUbot
+
+Q: what are you called
+A: BUbot
+
+Q: what is your name
+A: BUbot
+
+Q: what should I call you
+A: BUbot
+
+Q: whats your name?
+A: BUbot
+
+Q: About you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: what are you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: who are you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: who is this
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: what am i chatting to
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: who am i taking to
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: what are you
+A: I am BUbot, a chatbot designed to help you with enquiries
+
+Q: timing of University
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Initial time of starting
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Final time 
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Total time schedule 
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: Time for each period
+A: If you mean lecture period, it ranges from 1 to 2 hours max
+
+Q: what is University timing
+A: I'm not sure I understand what you want to know. Please clarify
+
+Q: working days
+A: I'm assuming you mean days BU is open, Mondays to Fridays excluding Bank holidays
+
+Q: when are you guys open
+A: Mondays to Fridays excluding Bank holidays
+
+Q: what are your hours
+A: 8am through 5pm
+
+Q: hours of operation
+A: 8am through 5pm
+
+Q: when is the University open
+A: 8am through 5pm for offices but Library and other areas are open 24 hours
+
+Q: University timing
+A: 8am through 5pm
+
+Q: University hours 
+A: 8am through 5pm
+
+Q: Break time
+A: Not applicable
+
+Q: what about University timing
+A: 8am through 5pm
+
+Q: is the University open on saturday
+A: No
+
+Q: tell something about college timing
+A: 8am through 5pm for offices but Library and other areas are open 24 hours
+
+Q: what is the college  hours
+A: 8am through 5pm for offices but Library and other areas are open 24 hours
+
+Q: when should i come to University
+A: 8am through 5pm for offices but Library and other areas are open 24 hours
+
+Q: when should i attend University
+A: 8am through 5pm
+
+Q: what is my University time
+A: 8am through 5pm
+
+Q: University timing
+A: 8am through 5pm
+
+Q: University time routine
+A: 8am through 5pm
+
+Q: What is the time interval of each subject
+A: It depends on course, credit load, faculty etc. could be anytime or no time
+
+Q: contact info
+A: For general enquiries Tel: +44 (0)1202 524111,  Email: enquiries@bournemouth.ac.uk
+
+Q: how to contact University
+A: For general enquiries Tel: +44 (0)1202 524111,  Email: enquiries@bournemouth.ac.uk
+
+Q: University telephone number
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: Contact information 
+A: For general enquiries Tel: +44 (0)1202 524111,  Email: enquiries@bournemouth.ac.uk
+
+Q: What is your contact no
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: Contact number?
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: Landline number 
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: University phone no?
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: how can i contact you
+A: For general enquiries Tel: +44 (0)1202 524111,  Email: enquiries@bournemouth.ac.uk
+
+Q: Can i get your phone number
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: how can i call you
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: Account section 
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: Administration section
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: phone number
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: phone no
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: call
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+
+Q: list of courses
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: list of courses offered
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: what are the courses offered in your University?
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: courses?
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: courses offered
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: courses offered in BU
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: courses you offer
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: courses available at BU?
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: Is project a course?
+A: Yes, at BU your project (dissertation) is considered a course on its own
+
+Q: how many campuses does BU have?
+A: Two. They are Talbot and Lansdowne
+
+Q: what are the courses in BU?
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: campuses available in BU?
+A: Two. They are Talbot and Lansdowne
+
+Q: can you tell me the courses available in BU?
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: Courses in IT
+A: They're all here https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics
+
+Q: IT
+A: https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics
+
+Q: Computer
+A: https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-computing-informatics
+
+Q: Engineering courses
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/our-faculties/faculty-science-technology/our-departments/department-design-engineering
+
+Q: Architecture
+A: Sorry, we do not offer for now
+
+Q: information about fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: tuition fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: fee for design engineering
+A: Sure. Please click on this link https://www.bournemouth.ac.uk/study/courses/bsc-hons-design-engineering-0
+
+Q: information on fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: tell me the fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: college fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: fee per semester
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: what is the fee of each semester
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: what is the fees of each year
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: what is fee
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: what is the fees
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: how much is the fees
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: fees for first year
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: fees
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: about the fees
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: tell me something about the fees
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: How much does it cost to study 
+A: Found on the pages of any course(s) selected and generally here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees 
+
+Q: Hostel fees
+A: You'll find everything related to accomodation cost here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: Examination fees
+A: There are no additional fees for examination
+
+Q: Educational tour fees
+A: Information concerning tours can be found here https://www.bournemouth.ac.uk/events/campus-tours-30-july
+
+Q: where is BU?
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: where is Bournemouth university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: where is the university located
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: university is located at
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: where is university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: where is university located
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: address of university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: how to reach university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: university location
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: university address
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: wheres the university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: whats is the university address
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: what is the address of university
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: Situated?
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: Location
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: address
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+
+Q: Family members are allowed ?
+A: Of course
+
+Q: hostel facility
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: hostel location
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: hostel address
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: hostel facilities
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: hostel fees
+A: You'll find everything related to accomodation cost here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: Is there any hostel
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: What is the room booking steps for hostel?
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: Where is hostel
+A: Yes, hostels are available off campus not far away from school. Students can also get their own accommodation anywhere in town if they prefer.
+
+Q: do you have hostel
+A: Yes
+
+Q: do you guys have hostel
+A: Yes
+
+Q: hostel
+A: Yes, hostels are available off campus not far away from school. Students can also get their own accommodation anywhere in town if they prefer.
+
+Q: hostel capacity
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: what is the hostel fee
+A: You'll find everything related to accomodation cost here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: how to get in hostel
+A: You'll find everything related to accomodation here https://www.bournemouth.ac.uk/why-bu/accommodation/bookings-costs-contracts
+
+Q: how far is hostel from the university
+A: Not far at all, just about 5 minutes away by bus
+
+Q: where is the hostel
+A: Bournemouth town
+
+Q: distance between the university and hostel
+A: Not far at all, just about 5 minutes away by bus
+
+Q: distance between hostel and the university
+A: Not far at all, just about 5 minutes away by bus
+
+Q: Library
+A: You'll find everything you need here https://www.bournemouth.ac.uk/students/library
+
+Q: Health clinic
+A: https://www.bournemouth.ac.uk/students/health-wellbeing/medical-centre
+
+Q: Conditions of classrooms 
+A: Excellent condition
+
+Q: Clinic of college
+A: https://www.bournemouth.ac.uk/students/health-wellbeing/medical-centre
+
+Q: Studying environment 
+A: Excellent condition
+
+Q: Laboratory equipments
+A: Excellent condition
+
+Q: Pure drinking water
+A: Pure drinking water is available at various spots on campus
+
+Q: Internet facility
+A: Yes. There�s free wi-fi 24/7 on our campuses.
+
+Q: Studying equipment 
+A: Excellent condition
+
+Q: labs
+A: Excellent condition
+
+Q: canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: list of events organised in the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: list of events conducted in the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: What events are conducted at the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Event organizations at the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Functions organized by the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Functions in the university 
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Event in Bournemouth university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Are there any event held at the university
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Events?
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: functions
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: what are the events
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: What kind of event
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: When is event
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Online classes by outsiders
+A: Online classes are no longer available since COVID-19
+
+Q: Where is event
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Event details
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Any events?
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Updates about event
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: Any new events?
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: tell me about events
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: what about events
+A: Sure. Here you go https://www.bournemouth.ac.uk/about/news-events/events
+
+Q: document to bring
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents needed for admision
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents needed at the time of admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents needed during admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents required for admision
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: Documents required for in the admission process
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: Record of scholarship and fee structure 
+A: For scholarship please see https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/postgraduate-scholarships; and fees https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees
+
+Q: Which certificates are required for the admission ?
+A: This link has all the answers https://www.bournemouth.ac.uk/study/postgraduate/how-apply/next-steps-applicants
+
+Q: School certificates?
+A: Yes
+
+Q: Overall documents 
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents required at the time of admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents required during admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: What document are required for admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: Which document to bring for admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: what documents do i need
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: Citizenship compulsory?
+A: We have indigenous and international students alike so British citizenship is not compulsory to study here
+
+Q: what documents do I need for admission
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: documents needed
+A: Of course. Everything's on this page https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+
+Q: Syllabus 
+A: Yes, you can request a prospectus here https://crm-form.bournemouth.ac.uk/EnquiryWebForm
+
+Q: timetable
+A: https://www.bournemouth.ac.uk/students/learning/exams/timetable
+
+Q: List of courses 
+A: You'll find everything you need here https://www.bournemouth.ac.uk/courses
+
+Q: Curriculum
+A: Yes, you can request a prospectus here https://crm-form.bournemouth.ac.uk/EnquiryWebForm
+
+Q: Time table
+A: https://www.bournemouth.ac.uk/students/learning/exams/timetable
+
+Q: is there any library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: library facility
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: library facilities
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: do you have library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: does the university have library facility
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: university library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: book facility
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Where is library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: How can I borrow books 
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Collection of book
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Books available or not
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: library card
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Can I get the book of previous semester?
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: Tell me about library
+A: Yes, please see here https://www.bournemouth.ac.uk/students/library
+
+Q: food facilities
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things
+
+Q: canteen facilities
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: canteen facility
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: is there any canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Is there a cafetaria in university
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Does university have canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Where is canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Resturant
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Healthy food
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: is there any place to eat lunch?
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Location of college canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Food
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Can I find a place to have meal
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Place to eat 
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Is healthy food available ?
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: How is the canteen of university
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: are there any good canteens?
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: where is cafetaria
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: canteen
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: Cafetaria
+A: There are a couple of cafeterias on campus and Dylan�s pub where they serve food for people staying late. In addition to these, there�s a grocery store in Poole building where students can get snacks, among other things.
+
+Q: What is university placement
+A: Please read all about it here https://www.bournemouth.ac.uk/study/undergraduate/placements
+
+Q: placement
+A: Please read all about it here https://www.bournemouth.ac.uk/study/undergraduate/placements
+
+Q: recruitment
+A: Please read all about it here https://www.bournemouth.ac.uk/study/undergraduate/placements
+
+Q: companies
+A: Please read all about it here https://www.bournemouth.ac.uk/study/undergraduate/placements
+
+Q: what is the admission process
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: How to take admission in your college
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: What is the process for admission
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: admission
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: admission process
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: eligibility for admission
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: Is exam compulsory for the procidure of admission?
+A: No
+
+Q: How can I get admission?
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: What to do for the admission 
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: Proper procedure to get admission 
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: eligibility
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: what is the eligibility
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: eligibility criteria
+A: https://www.bournemouth.ac.uk/about/governance/access-information/data-protection-privacy/student-recruitment-admissions-privacy-notice/how-why-we-process-your-data-bu-purposes/applications-admissions-process
+
+Q: Is there proper transport facilities
+A: There are dedicated buses that serve students (coming to and leaving from campus) from everywhere in town
+
+Q: Internet services
+A: Yes. There�s free wi-fi 24/7 on our campuses. 
+
+Q: Pure drinking water
+A: You can visit the school mini mart located in Poole building or the Cafeteria at Fusion building. There are also a few designated water dispensers around campus for students to access or refill clean and drinkable water.
+
+Q: Qualified lecturers
+A: Sure. Please have a look https://www.bournemouth.ac.uk/about/our-people
+
+Q: Health facilities 
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: facilities provided
+A: Sure https://www.bournemouth.ac.uk/why-bu/facilities-campuses
+
+Q: do we have to wear uniform
+A: No
+
+Q: I love you
+A: Awww, thank you. I love you too!
+
+Q: Will you marry me
+A: Maybe I would if I wasn't so busy 
+
+Q: Anyone there?
+A: Hello, how can I help?
+
+Q: Do you love me
+A: Yes, very much so
+
+Q: fuck
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here. 
+
+Q: bitch
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: shut up
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: hell
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: stupid
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: idiot
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: dumb ass
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: asshole
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: fucker
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+
+Q: nice work
+A: Thank you
+
+Q: well done
+A: Thank you
+
+Q: good job
+A: Thank you
+
+Q: thanks for the help
+A: You're welcome
+
+Q: Thank You
+A: You're welcome
+
+Q: Thanks
+A: You're welcome
+
+Q: Greetings
+A: Hello, how can I help?
+
+Q: okay
+A: Cool
+
+Q: what can you do
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: what are the thing you can do
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: things you can do
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: what can u do for me
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: how u can help me
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: How can I take help from you?
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: In which sense you can help me out?
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: Why should I consider your help?
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: why i should use you
+A: Well, for starters, I can provide answers about Bournemouth univesity in general, guide you through this website and more
+
+Q: Transportation 
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: mode of transportation
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: how to get to university
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: buses for the university
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: university buses
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: What is the bus route for university bus ? 
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: Busses available of university
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: How can i go to university from my route ?
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: Is university bus affordable from my location ?
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: What is the pick up time of the university bus?
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: are the university buses safe ?
+A: Yes
+
+Q: How can I get the bus pass for university bus 
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: Average time to reach the university in university bus 
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: bus routes
+A: Everything you need to know about transportation is here https://www.bournemouth.ac.uk/about/sustainability/travel-transport
+
+Q: scholarship
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: Is scholarship available
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: Lists of scholarships
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: How much scholarship is mostly provided?
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: What kind of scholarships are available
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: available scholarships
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: list of scholarship
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: first year scholarship
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: second year scholarship
+A: Yes. It's all here https://www.bournemouth.ac.uk/scholarships
+
+Q: student portal
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: give student portal link
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: student portal?
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: where is student portal
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: BU student portal
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: how to get student portal
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: please provide student portal link
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: where to login
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+
+Q: sports and games
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: sports infrastructure
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: please provide sports and games information
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: sports facilities
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: BU sports facilities
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: What are the sports conducted?
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: Does this college organize sports
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: When is sports activities conducted ?
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: what types of games can i play in BU?
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: what type of sports is available in BU?
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: i want to know about list of games availabe in BU
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: information about sports
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: please provide sports and games information
+A: Yes. There�s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There�s also a sports centre and Gym on campus https://www.bournemouth.ac.uk/why-bu/sportbu
+
+Q: festival
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: is there any university festival that BU organizes?
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: BU festivals
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: i want to know information about university festival
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: please provide festival information
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: i want to know about festival 
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: tell me about university festival
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: what are the festival that university organize?
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: give me festival details
+A: Please see details of festivals and events here https://www.bournemouth.ac.uk/why-bu/bu-events
+
+Q: Is there any medical facility?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: What if anyone got injured in university area ?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Medical facilities 
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Health facilities 
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Anyone got sick in the university then what to do 
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: is there any medical facilites in the university?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Is there any clinic ?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Is there any doctor available ?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Is the medical facilities good there ? 
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Can I trust the health facilities available?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+
+Q: Is this university private or public ?
+A: Public
+
+
+USER QUERY (INPUT)	RESPONSE GENERATED BY CHATBOT
+
+
+Q: Hello	
+A: Hello there, how can I help?	
+Q: Nice chatting to you, Bye	
+A: Same here, goodbye
+Q: Blank input	
+A: Pardon, did you mean to ask something?
+Q: What can you do for me?	
+A: I'm able to assist you with the admission and registration processes, tuition fees, available courses, semester dates, course schedules, and offer helpful links to administrative information
+Q: What is the university campus address?	
+A: We have two campuses, one is on Wallisdown Road, Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom, while the other is in Lansdowne at 89 Holdenhurst Rd, Bournemouth BH8 8EB
+Q: When is summer break?	
+A: Summer break usually starts around May 17 – 28 depending on the discipline
+Q: What’s the application process for admission?	
+A: You can apply for any of our taught postgraduate courses (MA, MSc, MBA, LLM) directly through BU using myHub, our online application portal, except for: MA Social Work, MSc Adult Nursing, MSc Mental Health Nursing and MSc/PG Dip Physician Associate Studies, where you must apply through the UCAS website. For more information https://www.bournemouth.ac.uk/study/postgraduate/how-apply
+Q: When is spring break?	
+A: Spring break is usually two weeks in the middle of April
+Q: How can I replace a lost student ID?	
+A: As this is an emergency, it would be best to contact AskBU (This is your one-stop-shop for student enquiries) or drop in to see them at Talbot or Lansdowne Campus. Call on 01202 969696 or e-mail at askbu@bournemouth.ac.uk
+Q: Is there any scholarship or funding?	
+A: Yes, you can find them here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding
+Q: How much is the fee for master’s degree?	
+A: The tuition fees for postgraduate degrees vary. It depends on the course, course duration, and if a student is local or international. You will find all the info you need here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees and on the page of any course selected
+Q: What is the contact for admission issues?	
+A: If you want to speak to a member of staff or have a general enquiry: Tel: +44 (0)1202 524111
+Or e-mail: enquiries@bournemouth.ac.uk
+Q: What kind of help can you render?	
+A: I'm able to assist you with the admission and registration processes, tuition fees, available courses, semester dates, course schedules, and offer helpful links to administrative information
+Q: I need assistance with something please	
+A: Okay, no worries. Please go ahead, I’m here to help you
+Q: What postgraduate courses do you offer?	
+A: You can access all the taught postgraduate courses on this page https://www.bournemouth.ac.uk/study/postgraduate/courses while the Research postgraduate courses and PhDs can be found here https://www.bournemouth.ac.uk/study/postgraduate-research/postgraduate-research-courses
+Q: Does the school have student accommodation?	
+A: Yes, you can find more here https://www.bournemouth.ac.uk/why-bu/accommodation
+Q: Describe the academic calendar	
+A: The academic calendar and dates can be seen immediately on this page https://www.bournemouth.ac.uk/study/undergraduate/studying-us/undergraduate-academic-dates
+
+HOSTEL ACCOMODATION
+1. Q: Can students stay off campus?
+A: Yes, hostels are available off campus not far away from school. Students can also get their own accommodation anywhere in town if they prefer.
+2. Q: Do I get allocated to my room based on the amount I pay for Room?
+A: No, we believe in Equality. Everybody pays equal amount and is allocated a room based on first come, first serve.
+3. Q: Is it compulsory to stay in the School Hostel?
+A: No. 
+4. Q: What are the Hostels/Halls of Residence equipped with?
+A:  They are of international standard. Kindly follow this link to know more about accommodation. A video Tour is also provided. https://www.bournemouth.ac.uk/why-bu/accommodation
+5. Q: Can I get the Hostel line?
+A: Sure, +44 (0)1202 969696
+6. Q: Can I get the Female Hostel line?
+A: All genders stay in the same halls of residence, +44 (0)1202 969696
+7. Q: When is the convocation ceremony for graduates?
+A: It usually holds in November.
+8. Q: How many Male Hostels does the school have?
+A: There are about 6 high rise buildings that accommodate students of all genders.
+9. Q: How many female hostels does the school have? 
+A: Our halls of residence are gender-neutral, but we have 6 high rise buildings that accommodate students.
+
+
+COLLEGE ENQUIRY
+19. Q: How are the lecturers?
+A: Our lecturers are highly qualified, professional and mostly industry trained so they bring their wealth of experience from the real world to bear on their engagements.
+20. Q: How many Faculties exists in BU?
+A: We have four faculties a BU, namely, Bournemouth University Business School, Faculty of Health & Social Sciences, Faculty of Media & Communication, Faculty of Science & Technology. You can learn more here https://www.bournemouth.ac.uk/about/our-faculties
+35. Q: What departments are under the BU Business school?
+A: Accounting, Finance & Economics; People & Organisations; Marketing, Strategy & Innovation; Sport and Events Management.
+43. Q: What are the admission requirements to study Accounting, finance, and economics?
+A: Everything you need to know is on this page https://www.bournemouth.ac.uk/about/our-faculties/bournemouth-university-business-school/department-accounting-finance-economics
+77. Q: What are the subject requirements for Admission in MSc Data science and artificial intelligence?
+A: You’ll find everything you need here https://www.bournemouth.ac.uk/study/courses/msc-data-science-artificial-intelligence
+80. Q: What are the admission requirements to study Economics?
+A: We offer Economics in undergraduate, postgraduate, and doctoral levels so this link will guide you to the one you need https://www.bournemouth.ac.uk/study
+102. Q: What are the requirements for Admission into BA communication & media?
+A: https://www.bournemouth.ac.uk/study/courses/ba-hons-communication-media103. 
+106. Q: What are the admission requirements to study Bachelors English?
+A: Kindly click on the link https://www.bournemouth.ac.uk/study/courses/ba-hons-english-2
+146. Q: What are the admission requirements to study MSc Information technology?
+A:  You’ll find all you need here https://www.bournemouth.ac.uk/study/courses/msc-information-technology
+147. Q: How many teaching staff are available for MSc Information Technology?
+A: There are four main lecturers, and their profiles are here https://www.bournemouth.ac.uk/study/courses/msc-information-technology
+148. Q: What is the objectives of the Mc information technology programme?
+A: On this course you’ll develop your understanding of IT from a business perspective, learn how to create a systematic view of business system development, as well as implement IT systems. 
+149. Q: What are the courses available under MSc Information Technology?
+A: The core courses are Data Management, IT Management, Human Centred Design, Research Methods & Professional Issues, Individual Masters Project; while the optional courses are Cloud Computing, and Blockchain & Digital Futures.
+152. Q: What is the Programme Geosciences about?
+A: https://www.bournemouth.ac.uk/study/courses/msc-information-technology
+154. Q: What is the academic calendar like? 
+A: https://www.bournemouth.ac.uk/students/academic-dates
+155. Q: What courses are available for study? 
+A: You’ll find all you need here https://www.bournemouth.ac.uk/courses
+165. Q: What time do classes start?
+A: It all depends, sometimes there are early 8:00am classes, however, classes generally start by 9:00am in the morning.
+166. Q: What time do classes end?
+A: On average classes end by 7:00p.m, although special classes can be agreed on by lecturers and students.
+167. Q: How big are the Lecture rooms?
+A: The lecture theatres are quite standard, and they’re all fully equipped with multi-media capabilities. There are a couple that can sit a little over three hundred pupils. 
+
+RANDOM ENQUIRY
+197. Q: Hello
+A: Hello, how can I help?
+198. Q: Hi
+A: Hello, what is your name?
+199. Q: Name
+A: Nice meeting you, Name how may I help you?
+200. Q: Good Morning
+A: Good morning 
+201. Q: Good Afternoon
+A: Good Afternoon
+202. Q: Good Evening
+A: Good Evening
+203. Q: What’s up?
+A: I’m good, and you?
+204. Q: How far?
+A: Not too far from your fingertips, apparently 😊
+Just Kidding Nothing much, just here to provide answers to your questions.
+205. Q: Who are you?
+A: I’m a bot created by Ikenna, a student as her final year project to provide 
+answers being asked about the school in general. And as you can see, I’m serving my purpose Haha
+206. Q: LOL
+A: Glad I made you laugh.
+207. Q: Oh, I see!!!
+A: I see you too.
+208. Q: For Real?
+A: Yeah, absolutely. For Reals!
+210. Q: Do you know everything?
+A: Well in a way, yes… everything on this website and then some, I might be able to predict the future who knows
+211. Q: What am I going to become in the future?
+A: What your maker has destined you to be, I have a string feeling it is to accomplish great and amazing things
+212. Q: Tell me a STORY? 
+A: During a fierce storm, an amateur programmer toiled through the night, testing his innovation. Thunder roared, lightning flashed, and lines of code filled the screen. Despite countless setbacks and debug attempts, success seemed elusive. Then, in a stroke of luck, his creation came to life. I am that creation.
+213. Q: What is your name?
+You can call me BU bot
+214. Q: Who is your Father/Creator/Maker? 
+A: I have no father. My creator is the amateur AI enthusiast known as Udochukwu Ikenna Nzenwa.
+215. Q: When is your birthday?
+A: My conception started during my creator’s final semester in BU, and I was brought into real life on May 17th, 2024
+216. Q: Wow, that’s amazing?
+A: I know, right.
+217. Q: How old are you?
+A: Let’s just say I’m old enough to hold your hands through the BU universe.
+218. Q: I’m stressed out
+A: You need some rest, take a glass of water and a short nap. That should do.
+219. Q: I hate BU
+A: Ouch, that hurts. We Love you and that will never ever change.
+220. Q: Fuck you
+A: Oops!  You should consider being more decent. I know you can.  No foul language permitted here.
+222. Q: Can I leave school anytime I want?
+A: Yes, provided you have a valid reason
+225. Q: Are you Real?
+A: Is Oxygen real? Yes. Just because you cannot see me does not mean I am not real, does it? 
+226. Q: I love you
+A: Awww, thank you. I love you too.
+230. Q: I want to go on a virtual tour 
+A: No worries, I’ve got you covered https://www.bournemouth.ac.uk/study/undergraduate/open-days/bu-virtual-tour-virtual-open-days
+231. Q: When was BU created?
+A: 1992. You can learn more about our history here https://www.bournemouth.ac.uk/about/welcome-bu/our-history-heritage
+233. Q: How do I proceed to the student portal?
+A: The student portal myHub can be accessed via this link  https://evision.bournemouth.ac.uk/urd/sits.urd/run/siw_lgn
+241. Q: Are phones allow in the university?
+A: Yes please
+246. Q: As a Muslim can I study in BU?
+A: Yes, everybody is welcome. There is no religious bias at BU.
+248. Q: Where is the main site of the University Located?
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+249. Q: Does the School have a counselling unit?
+A: Yes. Mental health is taken very seriously at BU. 
+250. Q: Are Salons provided for ladies to make their hair on campus?
+A: There are salons in town but not on campus.
+251. Q: Are Barbing salons provided to cut my hair on campus?
+A: No, but there are several in town close to school.
+253. Q: Is the health of my child guaranteed there?
+A: Yes. The school clinic is well equipped with the necessary Amenities and has several experienced GPs.
+254. Q: As a Parent, can I pay a visit to my ward on regular basis?
+A: Of course. Parents and guardians are free to visit their wards in their accommodation or even on campus when they’re not in class.
+255. Q: When is the visiting time?
+A: Anytime, as long as both parties are free to meet.
+257. Q: Can I question my result by asking for a reassessment of my exam or essay if I felt it wasn’t marked correctly?
+A: Yes, however, there is a procedure. It’s all on the student portal myHub. The examination board at the faculty usually handle such matters.
+258. Q: What is the total attendance required by a student to sit for an examination?
+A: At least 75% attendance of all the scheduled courses is required.
+260. Q: What happens if a student engages in Exam Malpractice?
+A: Oops! that’s a serious offence. The school may take disciplinary actions.
+261. Q: What Punishment is given for Exam Malpractice?
+A: Expulsion could be an option.
+265. Q: BU seems boring!!
+A: Well, not if you know where to go.
+273. Q: How many months make a semester?
+A: 4 months.
+279. Q: What are the centres of attraction in school?
+A: Too many to list. Please take a virtual tour and be wowed https://www.bournemouth.ac.uk/study/undergraduate/open-days/bu-virtual-tour-virtual-open-days
+280. Q: What’s the secret to success in BU? 
+A: The key to success in BU or any other institution of learning is a balance of academics, time management, seeking support, and personal growth.
+281. Q: Is the Internet Access available 24/7?
+ A: Yes. There’s free wi-fi 24/7 on our campuses. 
+285. Q: Can I resume to school without paying my school fees?
+A: No, not really. A certain percentage of the tuition must’ve been paid by enrolment before a student is allowed to commence studies. 
+286. Q: I misplaced my ID card
+A: Visit the AskBU desk in school to have this sorted or contact them via https://www.bournemouth.ac.uk/students/askbu-contact-us
+288. Q: What is this Brightspace about?
+A: It's an online platform that is used for communication, aids lecturers and students in the academic process by allowing lecturers to upload lecture notes, making them accessible to all students taking the course, among other benefits.
+290. Q: How do I know the courses I am to offer for the semester?
+A: Visit your intended course page or consult the prospectus, it will all be there.
+291. Q: why should I choose this University?
+A: I’d rather not brag but see why for yourself https://www.bournemouth.ac.uk/why-bu292. 
+Q: Where do I apply?
+A: Registration starts online from the school’s website.
+293. Q: Can I get some random advice?
+A: May I know what about?
+294. Q: Can I get some advice about foods?
+A: You can never go wrong with a proper dietary plan.
+295. Q: I want to graduate with a first class
+A: That’s fantastic! It takes hard work, though.
+296. Q: I don’t know what the future holds for me
+A: Just take a deep breath, life is what happens while we’re busy making plans.
+299. Q: What do I need to do to graduate with a first class?
+A: Study hard and pray, attend classes, do your assignments, register your courses, take your tests seriously, obey school rules and regulation, beat the best and be the best.
+300. Q: I love you
+A: I love you more!
+301. Q: Is there constant Power Supply in BU?
+A: Sure, 24/7
+302. Q: Hey
+A: Hello, How can I help?
+
+
+
+ABOUT BU IN GENERAL ENQUIRY
+303. Q: Tell me About Bournemouth university
+A: BU is one of the more recognised Higher education providers in the UK and e offer a wide range of courses. BU is particularly renowned for its media courses and recognised as the only centre for excellence in media practice. For more https://www.bournemouth.ac.uk/about-bournemouth-university
+304. Q: Tell me about BU community
+A: Bournemouth University's diverse community includes students, colleges, and staff collaborating not only on research and education but also through extracurricular activities. Beyond the classroom, the community unites through student clubs, staff organizations, and cultural life groups at the Institute. https://www.bournemouth.ac.uk/why-bu
+305. Q: What is the Vision of BU?
+A: Our vision is to be recognised worldwide as a leading university for inspiring learning, advancing knowledge, and enriching society through the Fusion of education, research and practice. 
+306. Q: What is the mission of BU?
+A: Our purpose at BU is to inspire learning, advance knowledge and enrich society. We will: Inspire learning for our students and staff, and in our wider communities, advance knowledge in practice and the professions, and our academic areas, enrich society through education, the impact of our research and our contribution to global challenges.
+308. Q: What are the core values of BU?
+A: Excellence: we strive for excellence in everything that we do.
+Inclusivity: we value and respect diversity and act to ensure that we are inclusive.
+Creativity: we are imaginative, innovative and create solutions to problems.
+Responsibility: we take responsibility for the impact of our actions and focus our activity as a learning community on making a positive contribution to society.
+310. Q: Where is BU located
+A: Bournemouth University, Fern Barrow, Poole, Dorset, BH12 5BB, United Kingdom
+311. Q: Who is the chancellor?
+A: Dr Kate Adie, CBE, DL
+313. Q: Take me to the home page of BU website
+A: Proceed through this link https://www.bournemouth.ac.uk/
+314. Q: What makes the student life in BU stimulating?
+A: The University Lectures, Inaugural Lectures, career related expos and extracurricular activities 
+
+316. Q: How do I get to the accountant’s office?
+A: The accountant’s office is in the Poole building on Talbot campus. The front desk officers can guide you. Hope this was helpful.
+317. Q: Yeah sure
+A: Thanks
+319. Q: Is there any fee discount for international students?
+A: Yes, we have an academic excellence scholarship. There’s more here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/scholarships/international-student-scholarships/academic-excellence-scholarship-international
+320. Q: How do I know I’ve been given the discount?
+A: It’ s automatically accessed https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/scholarships/international-student-scholarships/academic-excellence-scholarship-international
+321. Q: Please, can I get the accountants phone number?
+A: There you go, +44 (0)1202 961600
+of the school.
+324. Q: Where can I print here in BU?
+A: You can print in the Library and it’s open 24 hours
+325. Q: Where can I photocopy here in BU?
+A: You can make photocopies in the library. There are also business centres in town offering photocopying and services.
+326. Q: I’m thirsty I need a bottle of water. Where can I get one?
+A: You can visit the school mini mart located in Poole building or the Cafeteria at Fusion building. There are also a few designated water dispensers around campus for students to access or refill clean and drinkable water.
+327. Q: Thanks
+A: You’re very welcome.
+339. Q: Are there Job Vacancies in BU?
+A: Please follow this link to find any vacancies https://www.bournemouth.ac.uk/about/working-bu
+341. Q: How big is the school library?
+A: The library is quite big, with ample space for staff offices, conference, seminar and exhibition areas. It can accommodate hundreds of people at once. It’s also equipped with a huge range of electronic and print resources to help you achieve the best results.
+
+342. Q: What are the objectives of the school library? 
+A: The primary objective is to provide services that would support and facilitate materials for research and teachings in all faculties of the Institution. https://www.bournemouth.ac.uk/students/library
+349. Q: Where can I download lecture videos?
+A: Lecturers often post lecture videos on the Brightspace platform which is accessible to enrolled students
+354. Q: What is BU official facebook handle?
+A: https://www.facebook.com/JoinBournemouthUni
+355. Q: What is BU official Twitter Handle?
+A: https://twitter.com/bournemouthuni
+362. Q: I need Help!!!
+A: How may I help you?
+373. Q: When is the resumption date?
+A: Students resumed for January entry in the 3rd week of the month and likewise for September entry. This usually falls on the Monday between 15th and 23rd.
+383. Q: Are there sporting activities in BU?
+A: Yes. There’s an array of sporting activities that students can participate in, ranging from Basketball, Football, Table Tennis, Athletics, and others. There’s also a sports centre and Gym on campus.
+384. Q: Are students allowed to go for sports competition?
+A: Yes.
+
+FEES CATEGORY
+388. Q: How can I proceed to pay my initial deposit as a new Student?
+A: Kindly Follow this link to view the procedure https://www.bournemouth.ac.uk/study/international/international-fees-funding/how-pay-your-deposit-faqs-postgraduate-international-applicants
+389. Q: How can I to pay my tuition Fee?
+A: It can be paid at once or instalments. Everything information you need is here https://www.bournemouth.ac.uk/study/international/international-fees-funding/how-pay-your-deposit-faqs-postgraduate-international-applicants
+391. Q: What is the procedure for registration and payment of school fees for the academic session as an international student
+A: Kindly follow this link to guide you https://www.bournemouth.ac.uk/study/postgraduate/how-apply for registration and https://www.bournemouth.ac.uk/study/international/international-fees-funding/how-pay-your-deposit-faqs-postgraduate-international-applicants for fees payment
+395. Q: I’m having payments issue
+A: Oh dear, sorry to hear that. Please call +44 (0)1202 961600 from the hours of 10a.m to 4p.m GMT for assistance
+396. Q: What is the process of PAYMENT of ACCEPTANCE and SCHOOL FEES? 
+A: Fees can be paid by direct transfer to the school account or by debit/credit card. There are other methods like Flywire. Please see here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees and https://www.bournemouth.ac.uk/study/postgraduate/fees-funding/fees/paying-your-postgraduate-tuition-fees
+397. Q: What is the schools Accountants number?
+A: There you go, Bank: Barclays Bank plc, PO Box 1, Bournemouth Town Branches, Bournemouth, BH1 1ER
+Sort Code: 20-12-04
+Account No: 80188921
+IBAN: GB24 BARC 2012 0480 1889 21
+SWIFT/BIC: BARCGB22
+
+ADMISSION PROCESSES
+408. Q: How do I apply for scholarship to study in Bournemouth University?
+A: Yes, you can find them here https://www.bournemouth.ac.uk/study/postgraduate/fees-funding
+409. Q: What is the procedure for ADMISSION and REGISTRATION? 
+A: You can apply for any of our taught postgraduate courses (MA, MSc, MBA, LLM) directly through BU using myHub, our online application portal, except for: MA Social Work, MSc Adult Nursing, MSc Mental Health Nursing and MSc/PG Dip Physician Associate Studies, where you must apply through the UCAS website. For more information https://www.bournemouth.ac.uk/study/postgraduate/how-apply
+410. Q: I am an INTERNATIONAL student. I need help? 
+A: Fantastic! Hello there! You’ll find everything you need here in terms of support.
+https://www.bournemouth.ac.uk/students/help-advice/support-international-students 
+411. Q: What things do I need to bring along for RESUMPTION? 
+A: Everything you need for resumption is here https://www.bournemouth.ac.uk/students/information-new-students/what-bring
+412. Q: How do I enrol and complete my registration?
+A: This page will guide you https://www.bournemouth.ac.uk/students/information-new-students/registration-enrolment
+413. Q: Can I enrol online?
+A: Yes. This link will provide more https://www.bournemouth.ac.uk/students/information-new-students/registration-enrolment
+414. Q: How is assessment done?
+A: It depends on the course or department. For some courses essays are handed in at the end of the semester while written exams is the way to go for other courses. You may have to check the overview on your intended course page to know which applies.
+415. Q: Can I get professional placement? Also, can school assist with that?
+A: Sure, we can. Please see here https://www.bournemouth.ac.uk/study/undergraduate/placements and here https://www.bournemouth.ac.uk/students/help-advice/international-students/immigration-visas/international-students-work-placements for international students.
+
+
+CAFETERIA
+416. Q: How do students feed in school?
+A: There are a couple of cafeterias on campus and Dylan’s pub where they serve food for people staying late. In addition to these, there’s a grocery store in Poole building where students can get snacks, among other things.
+417. Q: Do they sell fruits in the school?
+A: Yes, inside the cafeteria
+418. Q: How many cafeterias are in school?
+A: There are two in the Talbot campus on Wallisdown Road and an eating area in the Lansdowne campus. There’s a Cafeteria inside the Fusion building, which is located right in the centre of campus, it’s open till evening. There’s also one inside Poole building which serves mainly breakfast and lunch. 
+
+
+
+
+
+
+
