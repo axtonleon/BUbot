@@ -1,83 +1,83 @@
-import streamlit as st
 import os
+import openai
+import streamlit as st
+from langchain_openai import OpenAIEmbeddings
+from langchain.chains import ConversationalRetrievalChain
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.indexes import VectorstoreIndexCreator
-from langchain_community.llms import OpenAI
-from langchain_community.chat_models import ChatOpenAI
+from langchain_community.vectorstores import Chroma
+
 
 
 # Initialize your chatbot components here
 os.environ["OPENAI_API_KEY"] = st.secrets['OPENAI_API_KEY']
-st.markdown("""
-<style>
-    .reportview-container {
-        background: #f0f2f6;
-    }
-    .stTextInput input {
-        border-radius: 10px;
-        border: 2px solid #6B7280;
-        padding: 10px;
-    }
-    .stButton > button {
-        border-radius: 10px;
-        border: 2px solid #6B7280;
-        padding: 10px 20px;
-        background-color: #6B7280;
-        color: white;
-    }
-    .stButton > button:hover {
-        background-color: #808B96;
-    }
-    .conversation-box {
-        border: 1px solid #6B7280;
-        border-radius: 10px;
-        padding: 10px;
-        margin-bottom: 20px;
-        background-color: #f0f2f6;
-    }
-</style>
-""", unsafe_allow_html=True)
 
-# Create a title for the app
-st.title("Bubot - Your Personal Chatbot")
+# Enable to save to disk & reuse the model (for repeated queries on the same data)
+PERSIST = False
 
-# Initialize session state for conversation history
-if "conversation" not in st.session_state:
-    st.session_state.conversation = []
+# Streamlit app
+def bubot():
+    st.set_page_config(page_title="BuBot", page_icon=":robot_face:")
 
-# Display the conversation history in a box above the query input
-st.markdown('<div class="conversation-box">', unsafe_allow_html=True)
-for sender, message in st.session_state.conversation:
-    st.markdown(f"**{sender}:** {message}")
-st.markdown('</div>', unsafe_allow_html=True)
+    # Add some CSS styles
+    css = """
+    <style>
+    .chat-container {
+        background-color: #f0f0f0;
+        border-radius: 8px;
+        padding: 20px;
+    }
+    .chat-bubble {
+        background-color: #ffffff;
+        border-radius: 12px;
+        padding: 12px 16px;
+        margin-bottom: 16px;
+    }
+    .bot-bubble {
+        background-color: #e6f3ff;
+        margin-left: auto;
+    }
+    </style>
+    """
+    st.markdown(css, unsafe_allow_html=True)
 
-# Create a text input for the user's query with a placeholder
-query = st.text_input("Enter your query here", placeholder="Type your question here...")
+    st.title("🤖 BuBot - Your AI Assistant")
 
-# Create a button to send the query
-if st.button("Ask Bubot"):
-    if query:
-        # Load the documents and create the index
-        loader = DirectoryLoader(".", glob="*.txt")
-        index = VectorstoreIndexCreator().from_loaders([loader])
-        
-        # Assuming st.session_state.conversation is a list of tuples where each tuple is (sender, message)
-        conversation_history = "\n".join([f"{sender}: {message}" for sender, message in st.session_state.conversation])
-        
-        # Create a prompt that includes the conversation history
-        prompt = f"{conversation_history}\nUser: {query}"
-        
-        # Query the index and get the answer, including the conversation history in the prompt
-        answer = index.query(prompt, llm=ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7))
-        
-        # Add the user's query and the bot's answer to the conversation history
-        st.session_state.conversation.append(("User", query))
-        st.session_state.conversation.append(("Bubot", answer))
-        
-        # Display the conversation history again to update the UI
-        st.markdown('<div class="conversation-box">', unsafe_allow_html=True)
-        for sender, message in st.session_state.conversation:
-            st.markdown(f"**{sender}:** {message}")
-        st.markdown('</div>', unsafe_allow_html=True)
+    if PERSIST and os.path.exists("persist"):
+        print("Reusing index...")
+        vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
+        index = VectorStoreIndexWrapper(vectorstore=vectorstore)
     else:
-        st.warning("Please enter a query.")
+        loader = DirectoryLoader("data/")
+        if PERSIST:
+            index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])
+        else:
+            index = VectorstoreIndexCreator().from_loaders([loader])
+
+    chain = ConversationalRetrievalChain.from_llm(
+        llm=ChatOpenAI(model="gpt-3.5-turbo"),
+        retriever=index.vectorstore.as_retriever(search_kwargs={"k": 1}),
+    )
+
+    chat_history = []
+
+    if "query" not in st.session_state:
+        st.session_state.query = ""
+
+    with st.container():
+        query = st.text_input("Ask BuBot a question:", st.session_state.query, key="query")
+
+        if query:
+            result = chain({"question": query, "chat_history": chat_history})
+            chat_history.append((query, result["answer"]))
+            st.session_state.query = ""  # Clear the input field
+
+    with st.container():
+        st.subheader("Chat History")
+        for user_query, bot_answer in chat_history:
+            with st.container():
+                st.markdown(f"<div class='chat-bubble'>You: {user_query}</div>", unsafe_allow_html=True)
+                st.markdown(f"<div class='chat-bubble bot-bubble'>BuBot: {bot_answer}</div>", unsafe_allow_html=True)
+
+if __name__ == "__main__":
+    bubot()
