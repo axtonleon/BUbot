@@ -39,9 +39,6 @@ st.markdown("""
 # Create a title for the app
 st.title("Bubot - Your Personal Chatbot")
 
-# Create a title for the app
-st.title("Bubot - Your Personal Chatbot")
-
 # Create a text input for the user's query with a placeholder
 query = st.text_input("Enter your query here", placeholder="Type your question here...")
 
