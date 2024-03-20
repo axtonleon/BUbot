@@ -11,10 +11,13 @@ import os
 import openai
 import streamlit as st
 from langchain_openai import OpenAIEmbeddings
+from langchain.chains import ConversationalRetrievalChain, RetrievalQA
+from langchain.chat_models import ChatOpenAI
+from langchain.document_loaders import DirectoryLoader, TextLoader
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.indexes import VectorstoreIndexCreator
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 
 
 
