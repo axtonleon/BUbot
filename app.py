@@ -1,4 +1,7 @@
 import os
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import openai
 import streamlit as st
 from langchain_openai import OpenAIEmbeddings
@@ -7,9 +10,7 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain.indexes import VectorstoreIndexCreator
 from langchain_community.vectorstores import Chroma
 
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 
 # Initialize your chatbot components here
