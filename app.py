@@ -47,10 +47,9 @@ def bubot():
     </style>
     """
     st.markdown(css, unsafe_allow_html=True)
+st.title("🤖 BuBot - Your AI Assistant")
 
-    st.title("🤖 BuBot - Your AI Assistant")
-
-   if PERSIST and os.path.exists("persist"):
+    if PERSIST and os.path.exists("persist"):
         print("Reusing index...")
         vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
         index = vectorstore.as_retriever()
@@ -60,7 +59,6 @@ def bubot():
             index = VectorstoreIndexCreator(vectorstore_cls=Chroma, vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])
         else:
             index = VectorstoreIndexCreator(vectorstore_cls=Chroma).from_loaders([loader])
-
 
     chain = ConversationalRetrievalChain.from_llm(
         llm=ChatOpenAI(model="gpt-3.5-turbo"),
@@ -89,3 +87,7 @@ def bubot():
 
 if __name__ == "__main__":
     bubot()
+
+Here are the changes made:
+
+    Removed the import from langchain_community.vectorstores import Chroma and imported from langchain.vectorstore
