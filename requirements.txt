@@ -5,3 +5,4 @@ openai==1.14.2
 unstructured==0.12.6 
 chromadb==0.4.24 
 pysqlite-binary==0.5.1.3380300 
+tiktoken==0.6.0 
