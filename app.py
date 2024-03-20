@@ -1,10 +1,11 @@
 import os
 
 __import__('pysqlite3')
+import pysqlite3
 import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+sys.modules['sqlite3'] = sys.modules["pysqlite3"]
 import chromadb
-import chromadb.config
+
 
 import openai
 import streamlit as st
