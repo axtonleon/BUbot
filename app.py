@@ -47,7 +47,7 @@ def bubot():
     </style>
     """
     st.markdown(css, unsafe_allow_html=True)
-st.title("🤖 BuBot - Your AI Assistant")
+    st.title("🤖 BuBot - Your AI Assistant")
 
     if PERSIST and os.path.exists("persist"):
         print("Reusing index...")
