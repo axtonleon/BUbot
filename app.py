@@ -10,7 +10,7 @@ import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # Initialize your chatbot components here
-API_KEY = os.environ["OPENAI_API_KEY"]
+os.environ["OPENAI_API_KEY"]
 
 # Custom CSS for styling
 st.markdown("""
