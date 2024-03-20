@@ -88,6 +88,3 @@ def bubot():
 if __name__ == "__main__":
     bubot()
 
-Here are the changes made:
-
-    Removed the import from langchain_community.vectorstores import Chroma and imported from langchain.vectorstore
