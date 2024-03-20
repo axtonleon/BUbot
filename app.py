@@ -5,6 +5,9 @@ from langchain.indexes import VectorstoreIndexCreator
 from langchain_community.llms import OpenAI
 from langchain_community.chat_models import ChatOpenAI
 import constants
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # Initialize your chatbot components here
 os.environ["OPENAI_API_KEY"] = constants.APIKEY
