@@ -17,7 +17,7 @@ from langchain.document_loaders import DirectoryLoader, TextLoader
 from langchain.chains import ConversationalRetrievalChain
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.indexes import VectorstoreIndexCreator
-
+from langchain_community.vectorstores import Chroma
 
 
 # Initialize your chatbot components here
