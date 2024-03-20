@@ -51,8 +51,17 @@ def bubot():
     """
     st.markdown(css, unsafe_allow_html=True)
     st.title("🤖 BuBot - Your AI Assistant")
-    loader = DirectoryLoader(".", glob="*.txt")
-    index = VectorstoreIndexCreator().from_loaders([loader])
+    if PERSIST and os.path.exists("persist"):
+        print("Reusing index...")
+        vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
+        index = vectorstore.as_retriever()
+    else:
+        loader = DirectoryLoader("data/")
+        if PERSIST:
+            index = VectorstoreIndexCreator(vectorstore_cls=Chroma, vectorstore_kwargs={"persist_directory": "persist"}).from_loaders([loader])
+        else:
+            index = VectorstoreIndexCreator(vectorstore_cls=Chroma).from_loaders([loader])
+
     
 
     chain = ConversationalRetrievalChain.from_llm(
